@@ -1,0 +1,14 @@
+Core
+* Simple hierarchy system (look at D1plo1d and tamask branches)
+
+Examples
+* DOMRenderer example
+
+Examples/Geometry/Primitives
+* Create more primitives. http://code.google.com/p/ogre-procedural/source/browse/#hg/library/src
+
+Materials
+* Layer based material system
+
+Renderers
+* FrustrumClipping near to Projector (CanvasRenderer and SVGRenderer)
